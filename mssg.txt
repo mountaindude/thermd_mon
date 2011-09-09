@@ -1,0 +1,2 @@
+Data entry into the thermd database (1-wire measurements) is overdue.
+
